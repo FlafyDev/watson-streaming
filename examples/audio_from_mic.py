@@ -1,5 +1,5 @@
 '''
-Speech to text transcription, from your mike, in real-time, using IBM Watson.
+Speech to text transcription, from your mic, in real-time, using IBM Watson.
 '''
 
 import argparse
